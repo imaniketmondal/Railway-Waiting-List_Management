@@ -38,7 +38,7 @@ public class railwayticket {
             System.out.println("3. Display Booked Tickets");
             System.out.println("4. Display Waiting Lists");
             System.out.println("5. Display General Waiting List");
-            System.out.println("6. Exit");
+            System.out.println("6. Exit🙌");
             System.out.print("Enter your choice: ");
 
             choice = scanner.nextInt();
