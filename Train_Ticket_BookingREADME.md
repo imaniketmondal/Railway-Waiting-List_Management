@@ -1,6 +1,6 @@
 # Train Ticket Booking System README
 
-This is a simple Train Ticket Booking System implemented in Java. It allows users to book tickets, cancel tickets, and manage waiting lists for a train with a limited number of seats.
+This is a foundational Java-based application designed for a train ticket booking system. It supports core functionalities including ticket reservation, cancellation, and automated management of a waiting list for a train with a fixed seating capacity.
 
 ## Features
 
